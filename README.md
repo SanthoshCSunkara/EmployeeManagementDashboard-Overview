@@ -8,6 +8,8 @@ A comprehensive HR portal consisting of 4 Canvas Apps and Power Automate flows d
 3. Reporting Structure Changes
 4. Title/Role Changes
 
+Each app includes a dedicated **Task Template list** that allows users or app owners to manage tasks efficiently — including creating new tasks, updating existing ones, changing offset days, modifying or reassigning assignees, and deactivating or removing tasks as needed.
+
 Delivered via a unified Dashboard for HR visibility and task tracking.
 
 Dashboard:
